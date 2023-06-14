@@ -1,4 +1,5 @@
-# map-plotting-python
+# Map plotting program (novel)
+
 A school project using python.
 The project is made using python, matplotlib and many other modules.
 We have created 3 imaginary vehicles that travels with different speed and methods.
